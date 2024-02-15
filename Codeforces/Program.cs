@@ -1,7 +1,7 @@
-﻿using Codeforces.Contests._925._Div_3;
-using Codeforces.Practice.Two_Pointer;
+﻿using Codeforces.Practice.BinarySearch;
 
 // Problem1928B.Main(null);
 // ProblemA.Main(null);
 // ProblemB.Main(null);
 // ProblemC.Main(null);
+Problem706B.Main(null);
